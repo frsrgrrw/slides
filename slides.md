@@ -204,7 +204,7 @@ By [Fraser Garrow](https://github.com/frsrgrrw) | 18-11-2020
 * <!-- .element: class="fragment" --> Syntax trees
 
 <!-- .element: class="fragment" --> These can help ensure evolved programs are *correct*, but programs are less fragile than we think [[2]][fragile]
-* <!-- .element: class="fragment" -->Source code - simple and conveinnient
+* <!-- .element: class="fragment" -->Source code - simple and convenient
 
 [fragile]: #/12
 
@@ -277,7 +277,7 @@ When might me want to be less ‘correct’ but more efficient?
 
 <div class="fragment" />
 
-<!-- .element: class="fragment" --> When we cosnider things liek mobile computing or robots we can easily think of scenarios where it might be preferable to do a ob with reduced funcitonality if it means increased battery life.
+<!-- .element: class="fragment" --> When we consider things like mobile computing or robots we can easily think of scenarios where it might be preferable to do a job with reduced functionality if it means increased battery life.
 
 <!-- .element: class="fragment" --> In mobile computing all of the functionality depends on the ability to sustain battery power, if this runs out there is no functionality.
 
@@ -290,7 +290,7 @@ When might me want to be less ‘correct’ but more efficient?
 ## Case Studies - Bug Fixing
 
 * Industrial use case: Facebook Engineering
-* Fixing Bugs in Your Sleep: How Genetic Improevemnt Became an Overnight Success. Haroldsson et al. [[4]][bugs]
+* Fixing Bugs in Your Sleep: How Genetic Improvemnt Became an Overnight Success. Haroldsson et al. [[4]][bugs]
 <div class="fragment" />
 
   * <!-- .element: class="fragment" --> Found and Fixed 22 bugs
@@ -335,8 +335,8 @@ When might me want to be less ‘correct’ but more efficient?
 
 * Novelty search for software improvement of a SLAM system, López-López et al., [[9]][slam]
 <div class="fragment" />
-  * <!-- .element: class="fragment" --> GI system to improve both functional and non-funcitonal properties of a SLAM system
-  * <!-- .element: class="fragment" --> realtive success with improvements of 226.3% and 12.5% being made for the functional (accuracy) and non-functional (speed) properties, respectively.
+  * <!-- .element: class="fragment" --> GI system to improve both functional and non-functional properties of a SLAM system
+  * <!-- .element: class="fragment" --> realtive success with improvements of 26.3% and 12.5% being made for the functional (accuracy) and non-functional (speed) properties, respectively.
 
 [slam]: #/12
 
