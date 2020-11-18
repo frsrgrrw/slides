@@ -348,6 +348,12 @@ html:-moz-full-screen-ancestor {
  * SLIDES
  *********************************************/
 
+ .scrollable {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  height: 700px;
+  }
+
 .reveal {
   position: relative;
   width: 100%;
